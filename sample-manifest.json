@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4ab82fe3-305d-47df-b9a5-3578624f52f3",
+  "id_short": 267023,
+  "published_at": "2026-04-17T19:09:55Z",
+  "repo_name": "all-restaurants-in-harrisburg-carlisle-metro-pennsylvania-us-sample-267023",
+  "sample_asset_name": "beamstation_267023_restaurants-us-harrisburgcarlislepa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/267023/beamstation_267023_restaurants-us-harrisburgcarlislepa_SAMPLE_DIST.csv",
+  "sample_records": 100,
+  "sample_sha256": "764a3bf0413400ae6c363af5ea767e42990dc4ae14214bb5bb12622535723bba",
+  "sample_size_bytes": 367305,
+  "total_records": 1007
+}
