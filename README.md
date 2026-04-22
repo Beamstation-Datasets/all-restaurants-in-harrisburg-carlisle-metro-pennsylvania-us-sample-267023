@@ -1,6 +1,6 @@
 # All Restaurants in Harrisburg-Carlisle (Metro), Pennsylvania, US
 
-> Free BeamStation sample export with 100 rows and masked direct-contact fields.
+> Free BeamStation sample export with 91 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `267023` |
 | Location | Harrisburg-Carlisle, PA |
 | Category | Restaurants |
-| Full dataset size | 1,007 records |
-| Free sample size | 100 records (9.93%) |
-| Last export | 2026-04-14T18:24:28.393352+00:00 |
+| Full dataset size | 911 records |
+| Free sample size | 91 records (9.99%) |
+| Last export | 2026-04-21T20:13:37.240993+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-harrisburg-carlisle-metro-pennsylvania-us-sample-267023/releases/download/sample-latest/beamstation_267023_restaurants-us-harrisburgcarlislepa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
