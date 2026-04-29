@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Restaurant dataset spanning the Harrisburg-Carlisle (Metro), Pennsylvania metropolitan area including Harrisburg and Carlisle. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Harrisburg-Carlisle (Metro), Pennsylvania, US",
-  "export_job_id": "8c21fbe9-9735-46dc-83ad-995fec635f47",
+  "export_job_id": "d920218b-f8b4-4fa7-a459-5f8aa9126518",
   "github_org": "Beamstation-Datasets",
   "id_short": 267023,
   "location_name": "Harrisburg-Carlisle, PA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-harrisburg-carlisle-metro-pennsylvania-us-sample-267023",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/267023/beamstation_267023_restaurants-us-harrisburgcarlislepa_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 91,
-  "sample_sha256": "9068ad6e177b7f99724013766ff854b4815081c53438a4745e746db3c383b9f5",
-  "sample_size_bytes": 334308,
-  "total_records": 911,
-  "updated_at": "2026-04-21T20:13:37.240993+00:00"
+  "sample_records": 99,
+  "sample_sha256": "71f1dae50c5b91fb860d2636234a6a073a1edd25abc57518d83b6104e4789eb5",
+  "sample_size_bytes": 361233,
+  "total_records": 991,
+  "updated_at": "2026-04-28T21:59:00.660051+00:00"
 }
